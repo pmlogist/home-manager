@@ -1,0 +1,4 @@
+alacritty
+bismuth
+docker
+docker-compose
